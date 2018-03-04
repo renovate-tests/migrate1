@@ -1,0 +1,13 @@
+{
+  "extends": "ikatyang:library",
+  "packages": [
+    {
+      "packageName": "prettier",
+      "automerge": "patch"
+    },
+    {
+      "packageName": "tslint-plugin-prettier",
+      "automerge": "patch"
+    }
+  ]
+}
